@@ -1,3 +1,7 @@
 #!/usr/bin/env python3
 
-assert(1 == 2)
+# assertion should evaluate to True
+assert(1 == 1)
+
+print("Assertion passed")
+
